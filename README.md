@@ -1,4 +1,4 @@
-# Fouille de Réseaux et d'Information (FRI) - Travaux Pratiques
+# Fondements de la recherche d'Information (FRI) - Travaux Pratiques
 
 Ce dépôt contient l'ensemble des travaux pratiques réalisés dans le cadre du module **FRI** du Master IAFA. Ces travaux couvrent les fondamentaux de la Recherche d'Information (RI), l'analyse de graphes et les systèmes d'IA générative basés sur la récupération de documents.
 
@@ -38,7 +38,7 @@ Ce cursus suit l'évolution des moteurs de recherche : des modèles vectoriels c
 
 ## 🛠️ Stack Technique
 * **Langage :** Python 3.10+
-* **Frameworks IA :** [LangChain](https://www.langchain.com/), OpenAI API / Hugging Face.
+* **Frameworks IA :** [LangChain](https://www.langchain.com/), OpenAI API / Hugging Face, PyTerrier.
 * **Traitement de texte :** NLTK, Scikit-learn.
 * **Graphes :** NetworkX.
 * **Stockage Vectoriel :** ChromaDB / FAISS.
